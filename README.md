@@ -1,4 +1,4 @@
-Parsing the v4 IP address in a string for esp32 and etc
+Parsing the v4 IP address in a string for esp32, esp8266-12, esp8266-07, esp8266-01, Arduino Nano, Arduino UNO and etc
 
 ------------
 
